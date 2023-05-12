@@ -4,6 +4,7 @@ C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\Gabri
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Service\RolService.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Service\SHyS.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\jwt\JwtProvider.java
+C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\DTO\dtoProyecto.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Entity\Persona.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Enums\RolNombre.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\DTO\dtoPersona.java
@@ -13,6 +14,7 @@ C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\Gabri
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Entity\UsuarioPrincipal.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\DTO\dtoEducacion.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Repository\IPersonaRepository.java
+C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Controller\CProyecto.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Service\UserDetailsImpl.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Entity\Rol.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Controller\CHyS.java
@@ -22,6 +24,7 @@ C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\Gabri
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\GabrielSoliozApplication.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\DTO\dtoHyS.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Service\ImpPersonaService.java
+C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Repository\RProyecto.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Controller\Mensaje.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Entity\Educacion.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Controller\CEducacion.java
@@ -33,7 +36,9 @@ C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\Gabri
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Entity\Experiencia.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Entity\Usuario.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\Repository\iRolRepository.java
+C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Service\SProyecto.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Repository\REducacion.java
+C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Entity\Proyecto.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Security\jwt\JwtEntryPoint.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Controller\CExperiencia.java
 C:\Users\gabriel\Desktop\backend\GabrielSolioz\src\main\java\com\portfolio\GabrielSolioz\Service\SEducacion.java
