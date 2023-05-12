@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 
 @RestController
 @RequestMapping("/explab")
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin(origins = {"https://portfolio-gabriel-8b168.web.app","http://localhost:4200"})
 public class CExperiencia {
     @Autowired
     SExperiencia sExperiencia;
