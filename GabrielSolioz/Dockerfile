@@ -5,5 +5,5 @@
 FROM alpine:latest
 FROM amazoncorretto:17-alpine-jdk
 MAINTAINER gabrielsolioz
-COPY target/mgb-0.0.1-SNAPSHOT.jar  mgb-app.jar
-ENTRYPOINT ["java","-jar","/mgb-app.jar"]
+COPY GabrielSolioz/target/GabrielSolioz-0.0.1-SNAPSHOT.jar  gs-app.jar
+ENTRYPOINT ["java","-jar","/gs-app.jar"]
