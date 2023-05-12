@@ -1,7 +1,9 @@
 com\portfolio\GabrielSolioz\Security\jwt\JwtEntryPoint.class
 com\portfolio\GabrielSolioz\Security\MainSecurity.class
+com\portfolio\GabrielSolioz\DTO\dtoProyecto.class
 com\portfolio\GabrielSolioz\GabrielSoliozApplication.class
 com\portfolio\GabrielSolioz\Service\SExperiencia.class
+com\portfolio\GabrielSolioz\Repository\RProyecto.class
 com\portfolio\GabrielSolioz\Repository\RExperiencia.class
 com\portfolio\GabrielSolioz\Controller\PersonaController.class
 com\portfolio\GabrielSolioz\Controller\CExperiencia.class
@@ -17,8 +19,11 @@ com\portfolio\GabrielSolioz\Security\Service\UsuarioService.class
 com\portfolio\GabrielSolioz\Security\DTO\LoginUsuario.class
 com\portfolio\GabrielSolioz\DTO\dtoExperiencia.class
 com\portfolio\GabrielSolioz\Controller\CHyS.class
+com\portfolio\GabrielSolioz\Entity\Proyecto.class
 com\portfolio\GabrielSolioz\DTO\dtoEducacion.class
 com\portfolio\GabrielSolioz\Security\Entity\Usuario.class
+com\portfolio\GabrielSolioz\Controller\CProyecto.class
+com\portfolio\GabrielSolioz\Service\SProyecto.class
 com\portfolio\GabrielSolioz\DTO\dtoHyS.class
 com\portfolio\GabrielSolioz\Service\ImpPersonaService.class
 com\portfolio\GabrielSolioz\Entity\Educacion.class
